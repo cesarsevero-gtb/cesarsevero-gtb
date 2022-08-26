@@ -2,7 +2,7 @@
 
 🤝 Não trabalho na área
 
-😄 Tenho noção de Java
+😄 Tenho noção de Java Orientada a Objeto 
 
 📖 Estudando Flutter
 
