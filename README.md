@@ -4,7 +4,7 @@
 
 😄 Tenho noção de Java
 
-📖 Estudando Kottlin
+📖 Estudando Flutter
 
 💪 Sou Desenvolvedor Full-Stack
 
