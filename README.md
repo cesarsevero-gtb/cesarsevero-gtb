@@ -4,7 +4,7 @@
 
 😄 Tenho noção de Java Orientada a Objeto 
 
-📖 Estudando Flutter
+📖 Estudando Python
 
 💪 Sou Desenvolvedor Full-Stack
 
