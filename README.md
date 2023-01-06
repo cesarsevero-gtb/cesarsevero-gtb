@@ -4,9 +4,9 @@
 
 😄 Tenho noção de Java Orientada a Objeto 
 
-📖 Estudando Python
+📖 Estudando Ciência da Computação na Universidade Estácio
 
-💪 Sou Desenvolvedor Full-Stack
+📱  Tenho alguns aplicativo criado por mim mesmo na Google Play
 
 <div align="center">
   <a href="https://github.com/cesarsevero">
@@ -29,9 +29,15 @@
  
  
 <div>
+  
+  <div style="display: inline_block"><br>
 <a href="direito1boab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/@Cesarseverogtb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  	<a href="https://wa.me/5511953327636?text=Ol%C3%A1%21+Vi+seu+Pefil+no+GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://play.google.com/store/apps/dev?id=8817099273138442707&hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
+  
+  
+  
 </div>
 
 
