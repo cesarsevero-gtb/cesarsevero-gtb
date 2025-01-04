@@ -4,7 +4,7 @@
 
 😄 Tenho noção de Java Orientada a Objeto 
 
-📖 Estudando Ciência da Computação na Universidade Estácio
+📖 Estudando Analise e Desenvolvimento de Sistemas
 
 📱  Tenho alguns aplicativo criado por mim mesmo na Google Play
 
